@@ -1,0 +1,1 @@
+!function(){window.Algos=Ember.Application.create()}(),function(){Algos.ApplicationAdapter=DS.FixtureAdapter}(),function(){Algos.ApplicationRoute=Ember.Route.extend({model:function(){return["red","yellow","blue"]}})}(),function(){Algos.Router.map(function(){})}();
